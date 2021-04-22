@@ -29,22 +29,27 @@ header {
     height: 60px;
 }
 .paris {
-  
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 50px;
-  width: 100px;
-  filter: grayscale(10%)
+    margin-left: auto;
+    margin-right: auto;
+     margin-top: 50px;
+     width: 100px;
+     filter: grayscale(10%)
 }
 .container {
+    -webkit-user-modify: read-write-plaintext-only;
+    margin-left: 50px;
     display:inline-block;   
     position:relative;
+    text-align: center;
+    margin-top: 70px;
 }
 .container div { 
-    font-size: 50px;
+    font-size: 40px;
     position: absolute; 
     bottom: 200px; left: 10px; 
-    background-color: rgba(0,0,0,.4); 
+    padding: 30px;
+    margin: 40px;
+    background-color: transparent;
     color: white
     
 }

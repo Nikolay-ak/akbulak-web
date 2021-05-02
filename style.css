@@ -37,11 +37,12 @@ header {
 }
 .container {
     -webkit-user-modify: read-write-plaintext-only;
-    margin-left: 0px;
+    margin-left: inherit;
     display:inline-block;   
     position:relative;
     text-align: center;
-    margin-top: 70px;
+    margin-top: 50px;
+    object-fit: left top;
 }
 .container div { 
     font-size: 40px;
@@ -50,6 +51,6 @@ header {
     padding: 30px;
     margin: 40px;
     background-color: transparent;
-    color: rgb(117, 224, 96)
+    color: rgb(247, 30, 229)
     
 }

@@ -1,0 +1,19 @@
+{
+  "name": "akbulak-web",
+  "version": "1.0.0",
+  "description": "[demo проекта] https://samvamcik.github.io/javana/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nikolay-ak/akbulak-web.git"
+  },
+  "author": "nik.mironenko.o@yandex.ru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nikolay-ak/akbulak-web/issues"
+  },
+  "homepage": "https://github.com/Nikolay-ak/akbulak-web#readme"
+}

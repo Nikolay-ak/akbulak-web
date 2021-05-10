@@ -1,2 +1,2 @@
 # ABULAK-WEB
-[demo проекта] https://samvamcik.github.io/javana/
+[demo проекта](https://nikolay-ak.github.io/akbulak-web/)

@@ -67,3 +67,6 @@ header {
     filter: blur(10px);
     transition: 1s filter linear;
 }
+#component {
+    margin-top: 100px;
+}
